@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CookieCookbook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\user\\source\\repos\\cookiecookbook\\cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\user\\source\\repos\\cookiecookbook\\cookiecookbook\\recipesrepo\\recipeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\recipesrepo\\recipeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\user\\source\\repos\\cookiecookbook\\cookiecookbook\\ingredientsrepo\\ingridient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\ingredientsrepo\\ingridient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\user\\source\\repos\\cookiecookbook\\cookiecookbook\\recipesrepo\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\recipesrepo\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\user\\source\\repos\\cookiecookbook\\cookiecookbook\\ingredientsrepo\\ingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F113140-A8DC-4454-B750-8F990AF35821}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\ingredientsrepo\\ingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\RecipesRepo\\RecipeEditor.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\RecipesRepo\\RecipeEditor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\RecipesRepo\\RecipeEditor.cs",
+              "RelativeToolTip": "CookieCookbook\\RecipesRepo\\RecipeEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:59:31.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\RecipesRepo\\Recipe.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\RecipesRepo\\Recipe.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\RecipesRepo\\Recipe.cs",
+              "RelativeToolTip": "CookieCookbook\\RecipesRepo\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:52:07.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingridients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\IngredientsRepo\\Ingridients.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\IngredientsRepo\\Ingridients.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\IngredientsRepo\\Ingridients.cs",
+              "RelativeToolTip": "CookieCookbook\\IngredientsRepo\\Ingridients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:52:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingridient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\IngredientsRepo\\Ingridient.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\IngredientsRepo\\Ingridient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\IngredientsRepo\\Ingridient.cs",
+              "RelativeToolTip": "CookieCookbook\\IngredientsRepo\\Ingridient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:50:47.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\Program.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CookieCookbook\\CookieCookbook\\Program.cs",
+              "RelativeToolTip": "CookieCookbook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:49:26.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
